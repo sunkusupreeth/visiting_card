@@ -1,0 +1,60 @@
+html{
+    font-size: 62.5%;
+}
+button{
+    color: beige;
+    background: none;
+    border-style: none;
+    margin: 1rem;
+}
+.button{
+    display: inline;
+    padding: 1.5rem 2rem;
+    margin: 2rem;
+    background-color: rgb(7, 7, 7);
+    border-radius: 3rem;
+}
+.button_media_wrapper{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    width:100%;
+}
+.e_card_wrapper_view{
+    width: 60rem;
+    margin: 1rem auto;
+    pointer-events: none;
+    user-select: none;
+}
+.logo{
+    position: relative;
+    left: 0rem;
+    top: 1rem;
+}
+.logo_wrapper{
+    width: 6rem;
+    margin: 1rem auto;
+}
+.e_card_wrapper{
+    width: 30rem;
+    margin: 1rem auto;
+    pointer-events: none;
+    user-select: none;
+}
+.trdla_title{
+    display: inline;
+    font-size: 3rem;
+}
+.trdla_title_wrapper{
+    position: relative;
+    right: 20vw;
+    margin: 3rem auto;
+}
+.header_wrapper{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 2rem;
+    margin: auto;
+    user-select: none;
+}
