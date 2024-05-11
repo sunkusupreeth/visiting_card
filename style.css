@@ -71,3 +71,51 @@ button{
     user-select: none;
 }
 
+/* telephone media wrapper */
+.telNo{
+    display: inline;
+    font-size: 2rem;
+}
+
+.telNo_wrapper{
+    padding-top: .2rem;
+    margin: 2rem 0.5rem;
+}
+
+.telIcon_wrapper{
+    width: 3rem;
+    margin: 2rem 0.5rem;
+}
+
+.telMed_wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+/* maps media */
+.maps_title{
+    display: inline;
+    font-family: 'Lucida sans', sans-serif;
+}
+.maps_title_wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.map_embed{
+    width: 100%;
+}
+
+.map_embed_wrapper{
+    display: flex;
+    justify-content: center;
+    width: 30rem;
+    height: 30rem;
+}
+.maps_media_wrapper{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+
